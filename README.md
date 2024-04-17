@@ -7,7 +7,7 @@ a project that helped me in making a simple database inside my personal discord 
 ### clone project:  
 
 ```bash
-git clone git@github.com:bznjzmzn/leaffealbotv2.git
+git clone https://github.com/bZnjZmZn/LeaffealBotv2.git
 ```
 
 ### in `index.html`
